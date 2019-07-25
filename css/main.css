@@ -1,0 +1,42 @@
+
+/* Custom Styles */
+
+.service-icon
+{
+  width: 70px;
+}
+
+.btn-1
+{
+  
+        font-family: "Montserrat", sans-serif;
+        font-size: 13px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        display: inline-block;
+        padding: 10px 20px;
+        border-radius: 4px;
+        transition: 0.5s;
+        color: #fff;
+        /* background: #1bb1dc; */
+        background: #6bc127;
+        color: #fff;
+      
+      
+}
+.btn-1:hover {
+    color: white !important;
+}
+#services .box {
+    height: 90%;
+} 
+#services .box p {
+    min-height: 40%;
+}
+@media only screen and (max-width: 500px) {
+    #services .box p {
+        min-height: unset;
+    }
+    
+  }

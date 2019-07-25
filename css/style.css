@@ -599,8 +599,8 @@ h6 {
   display: inline-block;
   text-align: center;
   border-radius: 50%;
-  width: 60px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
 }
 
 #services .icon i {
@@ -1560,3 +1560,4 @@ h6 {
     margin-bottom: 25px;
   }
 }
+
